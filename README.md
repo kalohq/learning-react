@@ -11,7 +11,7 @@ Before we begin please make sure you (your pair) follow these steps...
 
 1. Ensure you have **node** (>=v6) installed on your machine. Download it [here](https://nodejs.org/en/download/).
 2. [Clone](https://help.github.com/articles/cloning-a-repository/) this repository somewhere on your machine (use the [desktop client](https://desktop.github.com/) if you don't want to setup **git**)
-3. Ensure you have your editor setup and ready to start hacking on the `/part-1` directory.
+3. Ensure you have your [editor](https://www.sublimetext.com) setup and ready to start hacking on the `/part-1` directory.
 4. Run `npm install` or `yarn install` in the `/part-1` directory.
 
 Give someone a shout in #learning-react slack channel if you need some help setting up!
