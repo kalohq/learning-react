@@ -5,7 +5,7 @@ A series to learn React!
 
 This first session will be a super quick shallow dive into what **React** is and what you can do with it - by the end of it _everyone_ should have built _some_ UI (or it could go chaotically wrong, who knows!). It is very much a taster and hopefully catered to people at all levels.
 
-**I would recommend everyone get into pairs and work on a single machine (bit of PP action!), ideally where half the pair has some engineering experience to help the newcomers!**
+**I would recommend people get into pairs to work through the problems which will come up, ideally where half the pair has some engineering experience to help the newcomers!**
 
 Before we begin please make sure you (your pair) follow these steps...
 
