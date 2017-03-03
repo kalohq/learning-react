@@ -7,6 +7,11 @@ import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/css/bootstrap-theme.css';
 
 // TODO: Write your App component
+//
+// function App() {
+//   return <div>Some text here</div>;
+// }
+// 
 
 // render/mount our application into the page
 ReactDOM.render(

@@ -2,6 +2,8 @@ React in 30 mins
 
 ### Hackalong
 
+FIRST EVERYONE NEEDS TO GIT PULL AND RUN NPM INSTALL AGAIN
+
 1. Render a component [functional]
 
 Everyone should have *something* rendering on the screen greeting someone
