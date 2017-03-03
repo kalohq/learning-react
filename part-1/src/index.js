@@ -5,9 +5,8 @@ import ReactDOM from 'react-dom';
 // add some global styles to the page
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/css/bootstrap-theme.css';
-import './index.css';
 
-// TODO: Write your application
+// TODO: Write your App component
 
 // render/mount our application into the page
 ReactDOM.render(

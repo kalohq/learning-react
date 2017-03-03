@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "pusher-js": "^4.0.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },

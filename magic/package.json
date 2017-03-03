@@ -1,0 +1,17 @@
+{
+  "name": "magic",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Server portion of part 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chris Pearce <hello@chrispearce.me>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "express": "^4.15.0",
+    "pusher": "^1.5.1"
+  }
+}
