@@ -15,3 +15,16 @@ Before we begin please make sure you (your pair) follow these steps...
 4. Run `npm install` or `yarn install` in the `/part-1` directory.
 
 Give someone a shout in #learning-react slack channel if you need some help setting up!
+
+## Part 2 - React Patterns
+
+This session will be diving more into the data flow of React and what patterns it enables. Hopefully by the end of this everyone will really understand the fundamentals of how a React app is constructed and realise there's not really any magic!
+
+Before we begin please make sure you have followed these steps to save time...
+
+1. Ensure you have Node >= v6 installed
+2. `npm install -g create-react-app@1.4.0`
+3. `create-react-app my-react-app` (wherever you want to create a new project)
+4. Set up your IDE ready to go in that newly created project directory
+
+Once ready [lets go](./part-2)!
