@@ -18,7 +18,7 @@ Give someone a shout in #learning-react slack channel if you need some help sett
 
 ## Part 2 - React Patterns
 
-This session will be diving more into the data flow of React and what patterns it enables. Hopefully by the end of this everyone will really understand the fundamentals of how a React app is constructed and realise there's not really any magic!
+This session will be diving more into the data flow of React and what patterns it enables. Hopefully by the end of this everyone will really understand the fundamentals of how a realistic React app is constructed (beyond just the face of things) and realise there's not really any magic!
 
 Before we begin please make sure you have followed these steps to save time...
 
